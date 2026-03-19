@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daisy R</h1>
+<h1 align="center">Hi 👋 I'm Daisy </h1>
 <h3 align="center">Aspiring Software Engineer | AI & Full Stack Developer</h3>
 
 ---
@@ -105,7 +105,7 @@ Git | GitHub | Firebase | Linux
 - 💼 LinkedIn: https://www.linkedin.com/in/rdaisy  
 - 💻 GitHub: https://github.com/Daisy-code77  
 - 🧠 LeetCode: https://leetcode.com/daisy_11/  
-
+- 🌐 Portfolio: https://daisy-code77.github.io/Daisy_Portfolio-Website/
 ---
 
 ## ⚡ Fun Fact
