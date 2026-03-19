@@ -1,21 +1,115 @@
-<h1 align="center">Hi 👋, I'm Daisy</h1>
-<h3 align="center">Aspiring Software Engineer and a Computer Science Student from India</h3>
+<h1 align="center">Hi 👋, I'm Daisy R</h1>
+<h3 align="center">Aspiring Software Engineer | AI & Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **AI-integrated Mobile App Project**
+---
 
-- 🌱 I’m currently learning **DevOps Fundamentals and Generative AI**
+## 🚀 About Me
+- 🎓 Final-year Computer Science Engineering student from India  
+- 💻 Passionate about building **AI-powered and scalable web applications**  
+- 🧠 Strong in **Data Structures, Algorithms, and System Design fundamentals**  
+- 🌍 Founder of a **Women Coding Training Initiative**, mentoring 30+ students  
+- 🎯 Goal: To work in a high-impact software engineering role and build innovative products  
 
-- 👯 I’m looking to collaborate on **Software Development Project**
+---
 
-- 🤝 I’m looking for help with **Optimizing backend for my project**
+## 🔭 Current Work
+- 🚀 Building **AI Knowledge Intelligence Platform (NotebookLM-style system)**
+- 📊 Working on **real-world AI + Web Development projects**
+- ⚡ Exploring **scalable system design & backend optimization**
 
-- 💬 Ask me about **Python, JavaScript, Data Structures, Algorithms, Operating system, Software Development Lifecycle, System Design and AI Tools**
+---
 
-- 📫 How to reach me **daisy11092004@gmail.com**
+## 🌱 Currently Learning
+- 🔹 Generative AI & LLM Applications  
+- 🔹 DevOps Fundamentals  
+- 🔹 Advanced Backend Development  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rdaisy](https://www.linkedin.com/in/rdaisy)
+---
 
-- ⚡ Fun fact **I taught programming languages to my juniors through weekend bootcamps i organized. Mentored them from the basics to building mini projects and inspired many to start their coding journey**
+## 🤝 Looking For
+- 👯 Collaborations on **AI / Full Stack Projects**
+- 💡 Opportunities to contribute to **impactful tech products**
+
+---
+
+## 💬 Ask Me About
+- Python, JavaScript  
+- Data Structures & Algorithms  
+- System Design & Backend Development  
+- AI Tools, NLP & Generative AI  
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 AI Resume Analyzer & Job Recommendation System
+- AI system for resume evaluation and job role prediction  
+- NLP-based keyword extraction & skill matching  
+- 🔗 [Live Demo](https://final-year-project-41ca5.web.app/)  
+- 💻 [GitHub](https://github.com/Daisy-code77/Final-Year-Project_AI-Powered-Resume-Analyser)
+
+---
+
+### 🔹 AI Knowledge Intelligence Platform
+- NotebookLM-style system for document analysis & Q&A  
+- Features: summarization, semantic search, knowledge extraction  
+- 🔗 [Live Demo](https://ai-knowledge-platform.web.app/)  
+- 💻 [GitHub](https://github.com/Daisy-code77/AI-Knowledge-Intelligence-Platform-System)
+
+---
+
+### 🔹 Global Medical Price Intelligence Platform
+- Platform to compare medical product prices across sources  
+- Built search, filtering & comparison features  
+- 🔗 [Live Demo](https://med-price-platform-2026.web.app/)  
+- 💻 [GitHub](https://github.com/Daisy-code77/Global-Medical-Price-Intelligence)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python | JavaScript  
+
+**Frontend:**  
+HTML | CSS | React.js  
+
+**Backend:**  
+Node.js | Express.js  
+
+**Databases:**  
+MySQL | MongoDB  
+
+**Core Concepts:**  
+Data Structures & Algorithms | OOP | DBMS | OS | REST APIs  
+
+**AI/ML:**  
+NLP | Generative AI | LLMs | Prompt Engineering  
+
+**Tools & Platforms:**  
+Git | GitHub | Firebase | Linux  
+
+---
+
+## 🏆 Achievements
+- 🥇 Oracle Cloud Infrastructure & AI Foundations Certified  
+- 🌍 International Internship (USA) – Technology & Leadership  
+- 🎯 Software Engineering Job Simulation – Electronic Arts  
+- 🏅 AI Integrated Leadership Certification – Aspire USA  
+- 🚀 AI & XR Virtual Internship – Naan Mudhalvan  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: daisy11092004@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rdaisy  
+- 💻 GitHub: https://github.com/Daisy-code77  
+- 🧠 LeetCode: https://leetcode.com/daisy_11/  
+
+---
+
+## ⚡ Fun Fact
+I started a weekend coding initiative where I taught programming to students without laptops — helping them learn using mobile-based tools and guiding them to build real projects 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
